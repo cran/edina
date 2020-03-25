@@ -1,7 +1,7 @@
 Package: edina
 Title: Bayesian Estimation of an Exploratory Deterministic Input, Noisy
         and Gate Model
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
     person("James Joseph", "Balamuta", 
            email = "balamut2@illinois.edu", 
@@ -32,7 +32,7 @@ RoxygenNote: 7.1.0
 Encoding: UTF-8
 Language: en-US
 NeedsCompilation: yes
-Packaged: 2020-03-20 19:53:22 UTC; ronin
+Packaged: 2020-03-24 15:04:45 UTC; ronin
 Author: James Joseph Balamuta [aut, cre, cph]
     (<https://orcid.org/0000-0003-2826-8458>),
   Steven Andrew Culpepper [aut, cph]
@@ -40,4 +40,4 @@ Author: James Joseph Balamuta [aut, cre, cph]
   Jeffrey A. Douglas [aut]
 Maintainer: James Joseph Balamuta <balamut2@illinois.edu>
 Repository: CRAN
-Date/Publication: 2020-03-23 10:30:05 UTC
+Date/Publication: 2020-03-25 13:50:15 UTC

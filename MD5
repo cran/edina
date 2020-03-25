@@ -1,6 +1,6 @@
-07032e3bf78d4d585416188295dce396 *DESCRIPTION
+7d1c74d52d5da8bfcad1f8f5eebe2b90 *DESCRIPTION
 8b69cbb5f9616b37aaa41f49ea1ce68d *NAMESPACE
-30414832ba55c8081b2dfdf510b56103 *NEWS.md
+de9c2b047f4e3e7b8f665666efdf4abd *NEWS.md
 f659f15169eb622b87996c5f19ff5aff *R/RcppExports.R
 2a89b57cf5f9cc59720fd50a01ee45e8 *R/auto-edina.R
 1e1cb8d61d492208543c5b03f8dfe49d *R/edina-package.R
@@ -11,11 +11,11 @@ e24761789817f2e557256e0b8396e390 *R/q-matrix.R
 d18263bafd3d61d796f32af5568c3cc2 *R/reexports.R
 28c0da5af6efc41f40e563c55391ec9a *R/vis-auto-edina.R
 72f9542d418d3b142fd09fc35a7b3b8f *R/vis-q.R
-a61c4c69da669a29831ac57ffc0f96f1 *README.md
+4bfd9c4bc64a218ce86a37cbee02735c *README.md
 77c75b59ff98519dd26e1b2c79a71b46 *inst/CITATION
 450149efa1b0e3f6f60be099231d29ef *inst/WORDLIST
 1a7abc41d17331b24c956405b449cbfb *inst/include/edina.h
-7936d7d03dcedbf613defadf66d5d402 *inst/include/edina_meat.h
+108b3b45ebe8056156f43633eea7778c *inst/include/edina_meat.h
 18ea3baf9f19fb0dc16a4322779ee682 *man/BIC.edina.Rd
 86c5442a3e8d15cea723883c8581e445 *man/DIC.Rd
 e284826735ce095c11db29686308c308 *man/PPP.Rd
